@@ -1,3 +1,31 @@
 .min-height-feat {
     height: 18.75rem;
 }
+
+.mb-6 {
+    margin-bottom: 64px;  /* 16px * 4 */
+}
+
+.mb-7 {
+    margin-bottom: 80px;  /* 16px * 5 */
+}
+
+.mb-8 {
+    margin-bottom: 96px;  /* 16px * 6 */
+}
+
+.mb-9 {
+    margin-bottom: 122px;  /* 16px * 7 */
+}
+
+.mb-10 {
+    margin-bottom: 128px;  /* 16px * 8 */
+}
+
+.mb-11 {
+    margin-bottom: 144px;  /* 16px * 9 */
+}
+
+.mb-12 {
+    margin-bottom: 160px;  /* 16px * 10 */
+}
